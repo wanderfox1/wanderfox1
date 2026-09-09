@@ -87,7 +87,7 @@ Building out a Node.js backend on the side — `Express`, `Prisma`, `PostgreSQL`
 <div align="center">
 
 <a href="https://github.com/wanderfox1">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanderfox1&layout=compact&theme=dark&title_color=F7931E&icon_color=F7931E&text_color=ffffff&bg_color=00000000&hide_border=true" alt="Top Langs" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=wanderfox1&layout=compact&theme=dark&title_color=F7931E&icon_color=F7931E&text_color=ffffff&bg_color=00000000&hide_border=true" alt="Top Langs" />
 </a>
 
 <br/>
