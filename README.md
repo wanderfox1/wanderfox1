@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,50:F7931E,100:FFC93C&height=180&section=header&text=Hi,%20I'm%20a%20Frontend%20Developer&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=45"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,50:F7931E,100:FFC93C&height=180&section=header"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=F7931E&center=true&vCenter=true&width=560&lines=Frontend+Developer;React+%2B+TypeScript;Web3+%2F+Crypto+UI" alt="Typing SVG" />
 
 </div>
 
@@ -75,6 +77,24 @@ I build fast, polished interfaces — currently deep in **Web3 / crypto products
 ### 🌱 Also picking up: backend
 
 Building out a Node.js backend on the side — `Express`, `Prisma`, `PostgreSQL` — mainly to round out the picture on the API side of things I already build the frontend for.
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/wanderfox1">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanderfox1&layout=compact&theme=dark&title_color=F7931E&icon_color=F7931E&text_color=ffffff&bg_color=00000000&hide_border=true" alt="Top Langs" />
+</a>
+
+<br/>
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
 
 <br/>
 
